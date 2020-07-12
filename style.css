@@ -1,0 +1,40 @@
+body{
+    background: #80808021;
+}
+nav{
+    background-color: white;
+}
+
+.heading{
+    display: inline-block;
+    color: white;
+    background: #2d95e3;
+    width: 112px;
+    margin-left: -44px;
+    height: 26px;
+    text-align: center;
+}
+#news{
+    display: inline-block;
+    width: 900px;
+    background: white;
+    padding-left:15px;
+}
+hr{
+    padding:1px;
+    background:rgba(0, 0, 0, 0.274);
+}
+footer{
+    height:200px;
+}
+
+.foot-sec{
+    height:150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.custom-card{
+    height:160px;
+    width:280px;
+}
